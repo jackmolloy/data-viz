@@ -1,0 +1,1846 @@
+{
+  "data": [
+  [
+    "First Baptist Church",
+    "Church",
+    "West",
+    "141.1232877",
+    "Undetermined"
+ ],
+ [
+    "Grace Hair",
+    "Service",
+    "West",
+    "",
+    "Undetermined"
+ ],
+ [
+    "University Presbyterian Church",
+    "Church",
+    "East",
+    "167.139726",
+    "Undetermined"
+ ],
+ [
+    "Wesley Campus Ministry",
+    "Church",
+    "East",
+    "4.030136986",
+    "Undetermined"
+ ],
+ [
+    "Might as Well Bar & Grill",
+    "Restaurant",
+    "Central",
+    "",
+    "Undetermined"
+ ],
+ [
+    "Cuban Revolution",
+    "Restaurant",
+    "West",
+    "0.109589041",
+    "Independent"
+ ],
+ [
+    "Something Different Cafe",
+    "Restaurant",
+    "West",
+    "0.191780822",
+    "Independent"
+ ],
+ [
+    "Jones Funeral Home",
+    "Service",
+    "West",
+    "72.07671233",
+    "Independent"
+ ],
+ [
+    "Knotts Funeral Home",
+    "Service",
+    "West",
+    "67.0739726",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Tire",
+    "Service",
+    "West",
+    "64.07123288",
+    "Independent"
+ ],
+ [
+    "Tate Realty",
+    "Service",
+    "West",
+    "61.07123288",
+    "Independent"
+ ],
+ [
+    "Brown's Paint and Hardware",
+    "Retail",
+    "West",
+    "51.0630137",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Barber Shop",
+    "Service",
+    "West",
+    "50.0630137",
+    "Independent"
+ ],
+ [
+    "The Cave",
+    "Cultural Destination",
+    "West",
+    "49.0630137",
+    "Independent"
+ ],
+ [
+    "The Bookshop",
+    "Retail",
+    "West",
+    "38.05479452",
+    "Independent"
+ ],
+ [
+    "Northside District",
+    "Restaurant",
+    "West",
+    "1.252054795",
+    "Independent"
+ ],
+ [
+    "Key Food Mart",
+    "Grocery",
+    "West",
+    "29.04931507",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Comics",
+    "Retail",
+    "West",
+    "27.04657534",
+    "Independent"
+ ],
+ [
+    "Uniquities",
+    "Retail",
+    "West",
+    "25.04657534",
+    "Independent"
+ ],
+ [
+    "Local 506",
+    "Cultural Destination",
+    "West",
+    "24.04383562",
+    "Independent"
+ ],
+ [
+    "Passport Motors",
+    "Service",
+    "West",
+    "24.04383562",
+    "Independent"
+ ],
+ [
+    "Tar Heel Taxi",
+    "Service",
+    "West",
+    "23.04383562",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Cleaners",
+    "Service",
+    "West",
+    "23.04383562",
+    "Independent"
+ ],
+ [
+    "Beer Study",
+    "Bar",
+    "West",
+    "4.126027397",
+    "Independent"
+ ],
+ [
+    "La Potosina Mexican Tienda",
+    "Grocery",
+    "West",
+    "18.04109589",
+    "Independent"
+ ],
+ [
+    "d.b. Sutton",
+    "Service",
+    "West",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "Orange County Job Skills Center",
+    "Service",
+    "West",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "School Kids Records",
+    "Retail",
+    "West",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "Hazmat",
+    "Retail",
+    "West",
+    "16.03835616",
+    "Independent"
+ ],
+ [
+    "Syd's Hair Shop",
+    "Service",
+    "West",
+    "16.03835616",
+    "Independent"
+ ],
+ [
+    "The Crunkleton",
+    "Bar",
+    "West",
+    "9.035616438",
+    "Independent"
+ ],
+ [
+    "Nightlight",
+    "Cultural Destination",
+    "West",
+    "14.03835616",
+    "Independent"
+ ],
+ [
+    "Al's Burger Shack",
+    "Restaurant",
+    "West",
+    "3.295890411",
+    "Independent"
+ ],
+ [
+    "Nail Trix",
+    "Service",
+    "West",
+    "13.03835616",
+    "Independent"
+ ],
+ [
+    "Moshi Moshi",
+    "Service",
+    "West",
+    "13.03835616",
+    "Independent"
+ ],
+ [
+    "Kipos Greek Taverna",
+    "Restaurant",
+    "West",
+    "3.802739726",
+    "Independent"
+ ],
+ [
+    "Robert's",
+    "Bar",
+    "West",
+    "10.12054795",
+    "Independent"
+ ],
+ [
+    "The Cellar",
+    "Bar",
+    "West",
+    "12.03561644",
+    "Independent"
+ ],
+ [
+    "Guru India",
+    "Restaurant",
+    "West",
+    "5.032876712",
+    "Independent"
+ ],
+ [
+    "Cholanad Restaurant",
+    "restaurant",
+    "West",
+    "5.117808219",
+    "Independent"
+ ],
+ [
+    "West End Wine Bar",
+    "Bar",
+    "West",
+    "12.03561644",
+    "Independent"
+ ],
+ [
+    "Franklin Hotel",
+    "Service",
+    "West",
+    "10.03561644",
+    "Independent"
+ ],
+ [
+    "Franklin Street Yoga",
+    "Service",
+    "West",
+    "10.03561644",
+    "Independent"
+ ],
+ [
+    "Bread & Butter",
+    "Restaurant",
+    "West",
+    "5.367123288",
+    "Independent"
+ ],
+ [
+    "Vimala's Curryblossom Cafe",
+    "Restaurant",
+    "West",
+    "6.619178082",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Training",
+    "Service",
+    "West",
+    "7.032876712",
+    "Independent"
+ ],
+ [
+    "Moss",
+    "Service",
+    "West",
+    "7.032876712",
+    "Independent"
+ ],
+ [
+    "MINT",
+    "Restaurant",
+    "West",
+    "9.035616438",
+    "Independent"
+ ],
+ [
+    "Legacy Cutz",
+    "Service",
+    "West",
+    "6.032876712",
+    "Independent"
+ ],
+ [
+    "Smoke Rings",
+    "Retail",
+    "West",
+    "6.032876712",
+    "Independent"
+ ],
+ [
+    "Estetica Silvia",
+    "Service",
+    "West",
+    "6.032876712",
+    "Independent"
+ ],
+ [
+    "Uptown Beauty Salon",
+    "Service",
+    "West",
+    "6.032876712",
+    "Independent"
+ ],
+ [
+    "Sandwhich",
+    "Restaurant",
+    "West",
+    "12.03561644",
+    "Independent"
+ ],
+ [
+    "Light Art + Design",
+    "Cultural Destination",
+    "West",
+    "4.030136986",
+    "Independent"
+ ],
+ [
+    "Ascension Tattoos",
+    "Service",
+    "West",
+    "4.030136986",
+    "Independent"
+ ],
+ [
+    "Topo Distillery",
+    "Cultural Destination",
+    "West",
+    "4.030136986",
+    "Independent"
+ ],
+ [
+    "Talulla's",
+    "Restaurant",
+    "West",
+    "13.03835616",
+    "Independent"
+ ],
+ [
+    "Dead Mule Club",
+    "Bar",
+    "West",
+    "22.4630137",
+    "Independent"
+ ],
+ [
+    "Rumors",
+    "Retail",
+    "West",
+    "3.353424658",
+    "Independent"
+ ],
+ [
+    "Studio Design Gallery",
+    "Retail",
+    "West",
+    "3.197260274",
+    "Independent"
+ ],
+ [
+    "Lantern",
+    "Restaurant",
+    "West",
+    "15.03835616",
+    "Independent"
+ ],
+ [
+    "Next Door Cleaners",
+    "Service",
+    "West",
+    "0.419178082",
+    "Independent"
+ ],
+ [
+    "Franklin Street Motors",
+    "Service",
+    "West",
+    "3.030136986",
+    "Independent"
+ ],
+ [
+    "Arnold McClain Periodontology",
+    "Service",
+    "West",
+    "3.030136986",
+    "Independent"
+ ],
+ [
+    "Jeffery West General Dentistry",
+    "Service",
+    "West",
+    "3.030136986",
+    "Independent"
+ ],
+ [
+    "to the woods salon",
+    "Service",
+    "West",
+    "2.868493151",
+    "Independent"
+ ],
+ [
+    "DSI Comedy",
+    "Cultural Destination",
+    "West",
+    "2.701369863",
+    "Independent"
+ ],
+ [
+    "Vespa Restaurant",
+    "Restaurant",
+    "West",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "Logan's Pub & Billiards",
+    "Bar",
+    "East",
+    "0.832876712",
+    "Independent"
+ ],
+ [
+    "Expressions",
+    "Retail",
+    "East",
+    "6.58630137",
+    "Independent"
+ ],
+ [
+    "Baxter Arcade",
+    "Cultural Destination",
+    "West",
+    "2.230136986",
+    "Independent"
+ ],
+ [
+    "Elaine's",
+    "Restaurant",
+    "West",
+    "18.04109589",
+    "Independent"
+ ],
+ [
+    "Hair Expressions",
+    "Service",
+    "West",
+    "2.030136986",
+    "Independent"
+ ],
+ [
+    "Mediterranean Market",
+    "Grocery",
+    "West",
+    "2.030136986",
+    "Independent"
+ ],
+ [
+    "KLW Yoga",
+    "Service",
+    "West",
+    "0.350684932",
+    "Independent"
+ ],
+ [
+    "Sophie and Mollies Boutique",
+    "Retail",
+    "West",
+    "1.884931507",
+    "Independent"
+ ],
+ [
+    "Carolina Brewery",
+    "Restaurant",
+    "West",
+    "22.04383562",
+    "Independent"
+ ],
+ [
+    "Xenia",
+    "Retail",
+    "West",
+    "0.238356164",
+    "Independent"
+ ],
+ [
+    "Kalimaki",
+    "Restaurant",
+    "West",
+    "3.243835616",
+    "Independent"
+ ],
+ [
+    "Ashley Clarke Designs",
+    "Retail",
+    "West",
+    "1.243835616",
+    "Independent"
+ ],
+ [
+    "Ms Molly's Gift Shop",
+    "Retail",
+    "West",
+    "24.18082192",
+    "Independent"
+ ],
+ [
+    "Mediterranean Deli",
+    "Restaurant",
+    "West",
+    "25.04657534",
+    "Independent"
+ ],
+ [
+    "411 West Italian Cafe",
+    "Restaurant",
+    "West",
+    "27.04657534",
+    "Independent"
+ ],
+ [
+    "Italian Pizzeria III",
+    "Restaurant",
+    "West",
+    "31.63561644",
+    "Independent"
+ ],
+ [
+    "Crook's Corner",
+    "Restaurant",
+    "West",
+    "35.05205479",
+    "Independent"
+ ],
+ [
+    "Los Potrillos",
+    "Restaurant",
+    "Central",
+    "13.13150685",
+    "Independent"
+ ],
+ [
+    "Midway Community Kitchen",
+    "Service",
+    "West",
+    "1.030136986",
+    "Independent"
+ ],
+ [
+    "Mama Dip's",
+    "Restaurant",
+    "West",
+    "41.05753425",
+    "Independent"
+ ],
+ [
+    "Breadmen's",
+    "Restaurant",
+    "West",
+    "43.05753425",
+    "Independent"
+ ],
+ [
+    "Walt's Grill",
+    "Restaurant",
+    "West",
+    "43.05753425",
+    "Independent"
+ ],
+ [
+    "Local Liquids Vape Shop",
+    "Service",
+    "West",
+    "0.698630137",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Underground",
+    "Bar",
+    "East",
+    "3.369863014",
+    "Independent"
+ ],
+ [
+    "Delaine's House of Beauty",
+    "Service",
+    "West",
+    "7.002739726",
+    "Independent"
+ ],
+ [
+    "Bikram Yoga",
+    "Service",
+    "West",
+    "1.747945205",
+    "Independent"
+ ],
+ [
+    "Franklin Street Yoga Boutique",
+    "Retail",
+    "West",
+    "0.15890411",
+    "Independent"
+ ],
+ [
+    "Julian's",
+    "Retail",
+    "East",
+    "75.07945205",
+    "Independent"
+ ],
+ [
+    "University Florist and Gift Shop",
+    "Retail",
+    "East",
+    "71.07671233",
+    "Independent"
+ ],
+ [
+    "Morehead Planetarium",
+    "Cultural Destination",
+    "East",
+    "68.0739726",
+    "Independent"
+ ],
+ [
+    "Varsity Theatre",
+    "Cultural Destination",
+    "East",
+    "62.07123288",
+    "Independent"
+ ],
+ [
+    "Ackland Art Museum",
+    "Cultural Destination",
+    "East",
+    "59.06849315",
+    "Independent"
+ ],
+ [
+    "H2Only Cleaners",
+    "Service",
+    "West",
+    "1.684931507",
+    "Independent"
+ ],
+ [
+    "Hummus Cafe",
+    "Restaurant",
+    "East",
+    "2.246575342",
+    "Independent"
+ ],
+ [
+    "The Shrunken Head",
+    "Retail",
+    "East",
+    "43.05753425",
+    "Independent"
+ ],
+ [
+    "Pulse",
+    "Bar",
+    "East",
+    "3.706849315",
+    "Independent"
+ ],
+ [
+    "Khushi Salads & Wraps",
+    "Restaurant",
+    "East",
+    "0.980821918",
+    "Independent"
+ ],
+ [
+    "Creative Metalsmith Jewelry",
+    "Retail",
+    "East",
+    "39.05479452",
+    "Independent"
+ ],
+ [
+    "Salon 135",
+    "Service",
+    "East",
+    "35.05205479",
+    "Independent"
+ ],
+ [
+    "Johnny T-shirt",
+    "Retail",
+    "East",
+    "34.05205479",
+    "Independent"
+ ],
+ [
+    "Country Fried Duck",
+    "Bar",
+    "East",
+    "1.616438356",
+    "Independent"
+ ],
+ [
+    "Sawasdee Thai Restaurant",
+    "Restaurant",
+    "East",
+    "1.282191781",
+    "Independent"
+ ],
+ [
+    "Teen Center",
+    "Service",
+    "East",
+    "32.04931507",
+    "Independent"
+ ],
+ [
+    "Lightyears",
+    "Retail",
+    "East",
+    "32.04931507",
+    "Independent"
+ ],
+ [
+    "Glenn's Tailor Shop",
+    "Service",
+    "East",
+    "31.04931507",
+    "Independent"
+ ],
+ [
+    "Sakura Express",
+    "Restaurant",
+    "East",
+    "14.65205479",
+    "Independent"
+ ],
+ [
+    "The Strowd",
+    "Bar",
+    "East",
+    "1.802739726",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Sportswear",
+    "Retail",
+    "East",
+    "28.04657534",
+    "Independent"
+ ],
+ [
+    "Back Door Records",
+    "Retail",
+    "East",
+    "15.50958904",
+    "Independent"
+ ],
+ [
+    "Shanghai Dumplings",
+    "Restaurant",
+    "East",
+    "1.375342466",
+    "Independent"
+ ],
+ [
+    "Recovery Room",
+    "Restaurant",
+    "East",
+    "7.501369863",
+    "Independent"
+ ],
+ [
+    "Mina's Grill",
+    "Restaurant",
+    "West",
+    "1.167123288",
+    "Independent"
+ ],
+ [
+    "Ms Mong",
+    "Restaurant",
+    "East",
+    "1.561643836",
+    "Independent"
+ ],
+ [
+    "Classic Fashions",
+    "Retail",
+    "East",
+    "22.04383562",
+    "Independent"
+ ],
+ [
+    "Roots Bistro",
+    "Restaurant",
+    "East",
+    "1.868493151",
+    "Independent"
+ ],
+ [
+    "Greenbridge Sales Office",
+    "Service",
+    "West",
+    "2.41369863",
+    "Independent"
+ ],
+ [
+    "Imbibe",
+    "Restaurant",
+    "East",
+    "1.945205479",
+    "Independent"
+ ],
+ [
+    "Mei Asian",
+    "Restaurant",
+    "East",
+    "2.643835616",
+    "Independent"
+ ],
+ [
+    "The Deep End",
+    "Bar",
+    "East",
+    "6.416438356",
+    "Independent"
+ ],
+ [
+    "Sup Dogs",
+    "Restaurant",
+    "East",
+    "2.616438356",
+    "Independent"
+ ],
+ [
+    "Multiverse Gamers",
+    "Retail",
+    "East",
+    "2.41369863",
+    "Independent"
+ ],
+ [
+    "Thrill City",
+    "Retail",
+    "West",
+    "1.457534247",
+    "Independent"
+ ],
+ [
+    "Industry",
+    "Restaurant",
+    "West",
+    "1.161643836",
+    "Independent"
+ ],
+ [
+    "TRU Deli + Wine",
+    "Restaurant",
+    "East",
+    "4.449315068",
+    "Independent"
+ ],
+ [
+    "Precise Cutz & Styles",
+    "Service",
+    "East",
+    "12.03561644",
+    "Independent"
+ ],
+ [
+    "Chopsticks & More",
+    "Restaurant",
+    "East",
+    "1.41369863",
+    "Independent"
+ ],
+ [
+    "Top This!",
+    "Restaurant",
+    "East",
+    "1.994520548",
+    "Independent"
+ ],
+ [
+    "Blue Horn Lounge",
+    "Bar",
+    "East",
+    "12.03561644",
+    "Independent"
+ ],
+ [
+    "Tarheel Telecom",
+    "Retail",
+    "West",
+    "8.920547945",
+    "Independent"
+ ],
+ [
+    "Pita Pit",
+    "Restaurant",
+    "East",
+    "11.92054795",
+    "Independent"
+ ],
+ [
+    "Players",
+    "Bar",
+    "East",
+    "19.84657534",
+    "Independent"
+ ],
+ [
+    "Internationalist Books",
+    "Retail",
+    "West",
+    "33.60273973",
+    "Independent"
+ ],
+ [
+    "The Library",
+    "Bar",
+    "East",
+    "15.03835616",
+    "Independent"
+ ],
+ [
+    "Back Bar @ Top of the Hill",
+    "Restaurant",
+    "East",
+    "7.032876712",
+    "Independent"
+ ],
+ [
+    "Who's Next Barber Shop",
+    "Service",
+    "East",
+    "8.032876712",
+    "Independent"
+ ],
+ [
+    "Artisan Pizza Kitchen",
+    "Restaurant",
+    "East",
+    "7.032876712",
+    "Independent"
+ ],
+ [
+    "People's Beauty",
+    "Service",
+    "West",
+    "28.6",
+    "Independent"
+ ],
+ [
+    "R & R Grill",
+    "Restaurant",
+    "East",
+    "7.619178082",
+    "Independent"
+ ],
+ [
+    "Top of the Hill Great Room",
+    "Event Space",
+    "East",
+    "7.032876712",
+    "Independent"
+ ],
+ [
+    "Time After Time",
+    "Retail",
+    "West",
+    "31.23287671",
+    "Independent"
+ ],
+ [
+    "FRANK Gallery",
+    "Cultural Destination",
+    "East",
+    "7.032876712",
+    "Independent"
+ ],
+ [
+    "Sugarland",
+    "Restaurant",
+    "East",
+    "9.454794521",
+    "Independent"
+ ],
+ [
+    "The Standard",
+    "Restaurant",
+    "West",
+    "2.087671233",
+    "Independent"
+ ],
+ [
+    "Goodfellow's",
+    "Bar",
+    "East",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "Ply",
+    "Service",
+    "East",
+    "1",
+    "Independent"
+ ],
+ [
+    "Franklin Street Market",
+    "Service",
+    "East",
+    "6.032876712",
+    "Independent"
+ ],
+ [
+    "Ackland Museum Store",
+    "Retail",
+    "East",
+    "5.704109589",
+    "Independent"
+ ],
+ [
+    "Somethin' Else",
+    "Retail",
+    "West",
+    "4.084931507",
+    "Independent"
+ ],
+ [
+    "Joe's Joint",
+    "Restaurant",
+    "East",
+    "10.2630137",
+    "Independent"
+ ],
+ [
+    "Hotdogs and Brew",
+    "Restaurant",
+    "East",
+    "1.356164384",
+    "Independent"
+ ],
+ [
+    "Bski's",
+    "Restaurant",
+    "East",
+    "11.36986301",
+    "Independent"
+ ],
+ [
+    "Carolina Pride Sportswear",
+    "Retail",
+    "East",
+    "30.48219178",
+    "Independent"
+ ],
+ [
+    "Pepper's Pizza",
+    "Restaurant",
+    "East",
+    "26.1890411",
+    "Independent"
+ ],
+ [
+    "At Last Salon and Spa",
+    "Service",
+    "West",
+    "2.002739726",
+    "Independent"
+ ],
+ [
+    "Zog's Pool Hall",
+    "Bar",
+    "East",
+    "22.04383562",
+    "Independent"
+ ],
+ [
+    "Good Bones Vintage",
+    "Retail",
+    "West",
+    "5.002739726",
+    "Independent"
+ ],
+ [
+    "Jack Sprat",
+    "Restaurant",
+    "East",
+    "7.764383562",
+    "Independent"
+ ],
+ [
+    "Asia Cafe",
+    "Restaurant",
+    "East",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "Fedora",
+    "Retail",
+    "East",
+    "2.616438356",
+    "Independent"
+ ],
+ [
+    "Studio Supply",
+    "Retail",
+    "West",
+    "14.33972603",
+    "Independent"
+ ],
+ [
+    "Cosmic Cantina",
+    "Restaurant",
+    "East",
+    "18.04109589",
+    "Independent"
+ ],
+ [
+    "Franklin Street Pizza & Pasta",
+    "Restaurant",
+    "East",
+    "19.16986301",
+    "Independent"
+ ],
+ [
+    "Bandido's Mexican Cafe",
+    "Restaurant",
+    "East",
+    "22.04383562",
+    "Independent"
+ ],
+ [
+    "Four Corners",
+    "Restaurant",
+    "East",
+    "22.04383562",
+    "Independent"
+ ],
+ [
+    "Bub O'Malley's",
+    "Bar",
+    "East",
+    "29.80273973",
+    "Independent"
+ ],
+ [
+    "Top of the Hill",
+    "Restaurant",
+    "East",
+    "22.04383562",
+    "Independent"
+ ],
+ [
+    "Zinaz",
+    "Retail",
+    "West",
+    "2.495890411",
+    "Independent"
+ ],
+ [
+    "Time Out",
+    "Restaurant",
+    "East",
+    "39.05479452",
+    "Independent"
+ ],
+ [
+    "Spanky's",
+    "Restaurant",
+    "East",
+    "40.05479452",
+    "Independent"
+ ],
+ [
+    "Linda's Bar & Grill",
+    "Restaurant",
+    "East",
+    "41.05753425",
+    "Independent"
+ ],
+ [
+    "Tar Heel Bookstore",
+    "Retail",
+    "East",
+    "11.16986301",
+    "Independent"
+ ],
+ [
+    "Ye Olde Waffle Shop",
+    "Restaurant",
+    "East",
+    "45.06027397",
+    "Independent"
+ ],
+ [
+    "Limelight",
+    "Retail",
+    "West",
+    "3.052054795",
+    "Independent"
+ ],
+ [
+    "High Life Smoke Shop",
+    "Service",
+    "East",
+    "0.446575342",
+    "Independent"
+ ],
+ [
+    "Kidzu",
+    "Cultural Destination",
+    "East",
+    "5.002739726",
+    "Independent"
+ ],
+ [
+    "Sutton's Drug Store",
+    "Restaurant",
+    "East",
+    "94.09315068",
+    "Independent"
+ ],
+ [
+    "Carolina Coffee Shop",
+    "Restaurant",
+    "East",
+    "95.09315068",
+    "Independent"
+ ],
+ [
+    "Fuse",
+    "Restaurant",
+    "West",
+    "6.838356164",
+    "Independent"
+ ],
+ [
+    "University Baptist Church",
+    "Church",
+    "Central",
+    "162.1369863",
+    "Independent"
+ ],
+ [
+    "Walker's Funeral Home",
+    "Service",
+    "Central",
+    "80.08219178",
+    "Independent"
+ ],
+ [
+    "Inter Faith Council Homeless Shelter",
+    "Service",
+    "Central",
+    "51.0630137",
+    "Independent"
+ ],
+ [
+    "Hair Cuttery",
+    "Service",
+    "West",
+    "13.00821918",
+    "Independent"
+ ],
+ [
+    "Crepe Traditions",
+    "Restaurant",
+    "Central",
+    "1.315068493",
+    "Independent"
+ ],
+ [
+    "Tony Hall and Associates",
+    "Service",
+    "Central",
+    "31.04931507",
+    "Independent"
+ ],
+ [
+    "Chapel Hill Florist",
+    "Retail",
+    "Central",
+    "25.04657534",
+    "Independent"
+ ],
+ [
+    "Joseph's Hairstyling",
+    "Service",
+    "Central",
+    "17.04109589",
+    "Independent"
+ ],
+ [
+    "Toots & Magoo",
+    "Retail",
+    "East",
+    "-2.084931507",
+    "Independent"
+ ],
+ [
+    "Hell",
+    "Bar",
+    "East",
+    "11.92328767",
+    "Independent"
+ ],
+ [
+    "Spicy Nine Sushi",
+    "Restaurant",
+    "Central",
+    "3.030136986",
+    "Independent"
+ ],
+ [
+    "Patio Loco",
+    "Restaurant",
+    "West",
+    "7.002739726",
+    "Independent"
+ ],
+ [
+    "Goldies Grille",
+    "Restaurant",
+    "East",
+    "5.002739726",
+    "Independent"
+ ],
+ [
+    "Buns",
+    "Restaurant",
+    "Central",
+    "8.619178082",
+    "Independent"
+ ],
+ [
+    "Lime & Basil",
+    "Restaurant",
+    "Central",
+    "12.03561644",
+    "Independent"
+ ],
+ [
+    "Kurama Sushi & Noodle Express",
+    "Restaurant",
+    "Central",
+    "13.03835616",
+    "Independent"
+ ],
+ [
+    "The Rathskeller",
+    "Restaurant",
+    "East",
+    "58.50684932",
+    "Independent"
+ ],
+ [
+    "Pantana Bob's",
+    "Bar",
+    "Central",
+    "34.05205479",
+    "Independent"
+ ],
+ [
+    "Yogurt Pump",
+    "Restaurant",
+    "Central",
+    "35.05205479",
+    "Independent"
+ ],
+ [
+    "La Residence",
+    "Restaurant",
+    "Central",
+    "41.05753425",
+    "Independent"
+ ],
+ [
+    "He's Not Here",
+    "Bar",
+    "Central",
+    "44.22465753",
+    "Independent"
+ ],
+ [
+    "Sweet Frog Yogurt",
+    "Restaurant",
+    "East",
+    "5.043835616",
+    "Chain"
+ ],
+ [
+    "McAlister's Deli",
+    "Restaurant",
+    "East",
+    "16.90958904",
+    "Chain"
+ ],
+ [
+    "Carolina Ale House",
+    "Restaurant",
+    "West",
+    "1.21369863",
+    "Chain"
+ ],
+ [
+    "Chapel Hill Fan Shop",
+    "Retail",
+    "West",
+    "1.82739726",
+    "Chain"
+ ],
+ [
+    "University PC",
+    "Service",
+    "East",
+    "0.268493151",
+    "Chain"
+ ],
+ [
+    "Fitzgerald's Irish Pub",
+    "Restaurant",
+    "Central",
+    "2.723287671",
+    "Chain"
+ ],
+ [
+    "Subway Sandwiches",
+    "Restaurant",
+    "East",
+    "11",
+    "Chain"
+ ],
+ [
+    "Trolley Stop Hotdogs",
+    "Restaurant",
+    "West",
+    "1.802739726",
+    "Chain"
+ ],
+ [
+    "Lime Fresh Mexican Grill",
+    "Restaurant",
+    "Central",
+    "2.57260274",
+    "Chain"
+ ],
+ [
+    "Jiffy Lube",
+    "Service",
+    "West",
+    "17.04109589",
+    "Chain"
+ ],
+ [
+    "Toppers",
+    "Restaurant",
+    "West",
+    "3.030136986",
+    "Chain"
+ ],
+ [
+    "Krispy Kreme",
+    "Restaurant",
+    "East",
+    "5.002739726",
+    "Chain"
+ ],
+ [
+    "Clothing Warehouse",
+    "Retail",
+    "East",
+    "6.328767123",
+    "Chain"
+ ],
+ [
+    "Mellow Mushroom",
+    "Restaurant",
+    "West",
+    "3.868493151",
+    "Chain"
+ ],
+ [
+    "Aveda",
+    "Service",
+    "Central",
+    "10.00547945",
+    "Chain"
+ ],
+ [
+    "Campus Calzones",
+    "Restaurant",
+    "East",
+    "0.915068493",
+    "Chain"
+ ],
+ [
+    "Gamestop",
+    "Retail",
+    "East",
+    "5.583561644",
+    "Chain"
+ ],
+ [
+    "Gigi's Cupcakes",
+    "Restaurant",
+    "Central",
+    "1.252054795",
+    "Chain"
+ ],
+ [
+    "Tomato Jake's",
+    "Restaurant",
+    "East",
+    "0.802739726",
+    "Chain"
+ ],
+ [
+    "Chipotle",
+    "Restaurant",
+    "West",
+    "9.621917808",
+    "Chain"
+ ],
+ [
+    "Nationwide Insurance",
+    "Service",
+    "West",
+    "5.032876712",
+    "Chain"
+ ],
+ [
+    "Bank of America",
+    "Service",
+    "East",
+    "11.00821918",
+    "Chain"
+ ],
+ [
+    "Jersey Mike's",
+    "Restaurant",
+    "Central",
+    "3.416438356",
+    "Chain"
+ ],
+ [
+    "Jimmy John's",
+    "Restaurant",
+    "West",
+    "16.03835616",
+    "Chain"
+ ],
+ [
+    "Bluetique",
+    "Retail",
+    "West",
+    "2.928767123",
+    "Chain"
+ ],
+ [
+    "Papa Johns",
+    "Restaurant",
+    "West",
+    "17.04109589",
+    "Chain"
+ ],
+ [
+    "Triangle Cellular Repair",
+    "Service",
+    "West",
+    "1.783561644",
+    "Chain"
+ ],
+ [
+    "McDonald's",
+    "Restaurant",
+    "West",
+    "33.05205479",
+    "Chain"
+ ],
+ [
+    "Benny Cappella's",
+    "Restaurant",
+    "East",
+    "0.8",
+    "Chain"
+ ],
+ [
+    "Smoothie King",
+    "Restaurant",
+    "East",
+    "0.934246575",
+    "Chain"
+ ],
+ [
+    "BB&T",
+    "Service",
+    "East",
+    "38.05479452",
+    "Chain"
+ ],
+ [
+    "Bank of America",
+    "Service",
+    "East",
+    "27.04657534",
+    "Chain"
+ ],
+ [
+    "Insomnia Cookies",
+    "Restaurant",
+    "East",
+    "3.15890411",
+    "Chain"
+ ],
+ [
+    "Waffle House",
+    "Restaurant",
+    "East",
+    "3.197260274",
+    "Chain"
+ ],
+ [
+    "Princeton Review",
+    "Service",
+    "East",
+    "7.032876712",
+    "Chain"
+ ],
+ [
+    "Walgreen's",
+    "Service",
+    "East",
+    "7.032876712",
+    "Chain"
+ ],
+ [
+    "Wells Fargo",
+    "Service",
+    "East",
+    "7.032876712",
+    "Chain"
+ ],
+ [
+    "Bevello Clothing",
+    "Retail",
+    "East",
+    "5.536986301",
+    "Chain"
+ ],
+ [
+    "Underground Printing",
+    "Retail",
+    "East",
+    "4.364383562",
+    "Chain"
+ ],
+ [
+    "PNC Bank",
+    "Service",
+    "East",
+    "4.030136986",
+    "Chain"
+ ],
+ [
+    "Cold Stone",
+    "Restaurant",
+    "East",
+    "14.03835616",
+    "Chain"
+ ],
+ [
+    "CVS",
+    "Service",
+    "East",
+    "3.197260274",
+    "Chain"
+ ],
+ [
+    "Starbucks",
+    "Restaurant",
+    "East",
+    "17.04109589",
+    "Chain"
+ ],
+ [
+    "Moe's Southwest Grill",
+    "Restaurant",
+    "Central",
+    "1.17260274",
+    "Chain"
+ ],
+ [
+    "FedEX Kinko's",
+    "Service",
+    "Central",
+    "25.04657534",
+    "Chain"
+ ],
+ [
+    "The Bicycle Chain",
+    "Retail",
+    "Central",
+    "25.04657534",
+    "Chain"
+ ],
+ [
+    "Jasmin Bistro",
+    "Restaurant",
+    "Central",
+    "1.868493151",
+    "Chain"
+ ],
+ [
+    "EyeCareCenter",
+    "Service",
+    "Central",
+    "19.04109589",
+    "Chain"
+ ],
+ [
+    "Old Chicago",
+    "Restaurant",
+    "Central",
+    "2.824657534",
+    "Chain"
+ ],
+ [
+    "Kaplan Educational Center",
+    "Service",
+    "Central",
+    "15.03835616",
+    "Chain"
+ ],
+ [
+    "Noodles & Co",
+    "Restaurant",
+    "Central",
+    "8.536986301",
+    "Chain"
+ ],
+ [
+    "Panera Bread Company",
+    "Restaurant",
+    "Central",
+    "14.79178082",
+    "Chain"
+ ],
+ [
+    "Ben & Jerry's",
+    "Restaurant",
+    "Central",
+    "17.04109589",
+    "Chain"
+ ],
+ [
+    "Gentlemen's Corner",
+    "Retail",
+    "Central",
+    "2.745205479",
+    "Chain"
+ ],
+ [
+    "I _ NY Pizza",
+    "Restaurant",
+    "Central",
+    "17.04109589",
+    "Chain"
+ ],
+ [
+    "Sotheby's Realty",
+    "Service",
+    "Central",
+    "",
+    "Chain"
+ ]
+]
+
+}
