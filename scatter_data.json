@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "balance": "$2,740.01",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "school": "NCSTATE",
+    "name": "Wilda Baldwin",
+    "gender": "female"
+  },
+  {
+    "index": 1,
+    "balance": "$3,245.91",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "school": "NCSTATE",
+    "name": "Celeste Mclaughlin",
+    "gender": "female"
+  }
+  ]

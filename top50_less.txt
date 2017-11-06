@@ -1,0 +1,255 @@
+{
+  "data": [
+  [
+    "Avatar ",
+    "$760,505,847",
+    "33,000"
+ ],
+ [
+    "Titanic ",
+    "$658,672,302",
+    "26,000"
+ ],
+ [
+    "Jurassic World ",
+    "$652,177,271",
+    "150,000"
+ ],
+ [
+    "The Avengers ",
+    "$623,279,547",
+    "123,000"
+ ],
+ [
+    "The Avengers ",
+    "$623,279,547",
+    "123,000"
+ ],
+ [
+    "The Dark Knight ",
+    "$533,316,061",
+    "37,000"
+ ],
+ [
+    "Star Wars: Episode I - The Phantom Menace ",
+    "$474,544,677",
+    "13,000"
+ ],
+ [
+    "Star Wars: Episode IV - A New Hope ",
+    "$460,935,665",
+    "33,000"
+ ],
+ [
+    "Avengers: Age of Ultron ",
+    "$458,991,599",
+    "118,000"
+ ],
+ [
+    "The Dark Knight Rises ",
+    "$448,130,642",
+    "164,000"
+ ],
+ [
+    "Shrek 2 ",
+    "$436,471,036",
+    "0"
+ ],
+ [
+    "E.T. the Extra-Terrestrial ",
+    "$434,949,459",
+    "34,000"
+ ],
+ [
+    "The Hunger Games: Catching Fire ",
+    "$424,645,577",
+    "82,000"
+ ],
+ [
+    "Pirates of the Caribbean: Dead Man's Chest ",
+    "$423,032,628",
+    "5,000"
+ ],
+ [
+    "The Lion King ",
+    "$422,783,777",
+    "17,000"
+ ],
+ [
+    "Toy Story 3 ",
+    "$414,984,497",
+    "30,000"
+ ],
+ [
+    "Iron Man 3 ",
+    "$408,992,272",
+    "95,000"
+ ],
+ [
+    "The Hunger Games ",
+    "$407,999,255",
+    "140,000"
+ ],
+ [
+    "Captain America: Civil War ",
+    "$407,197,282",
+    "72,000"
+ ],
+ [
+    "Spider-Man ",
+    "$403,706,375",
+    "5,000"
+ ],
+ [
+    "Transformers: Revenge of the Fallen ",
+    "$402,076,689",
+    "0"
+ ],
+ [
+    "Frozen ",
+    "$400,736,600",
+    "58,000"
+ ],
+ [
+    "Finding Nemo ",
+    "$380,838,870",
+    "11,000"
+ ],
+ [
+    "Star Wars: Episode III - Revenge of the Sith ",
+    "$380,262,555",
+    "10,000"
+ ],
+ [
+    "The Lord of the Rings: The Return of the King ",
+    "$377,019,252",
+    "16,000"
+ ],
+ [
+    "Spider-Man 2 ",
+    "$373,377,893",
+    "0"
+ ],
+ [
+    "Despicable Me 2 ",
+    "$368,049,635",
+    "56,000"
+ ],
+ [
+    "Deadpool ",
+    "$363,024,263",
+    "117,000"
+ ],
+ [
+    "The Jungle Book ",
+    "$362,645,141",
+    "65,000"
+ ],
+ [
+    "The Jungle Book ",
+    "$362,645,141",
+    "65,000"
+ ],
+ [
+    "Jurassic Park ",
+    "$356,784,000",
+    "19,000"
+ ],
+ [
+    "Inside Out ",
+    "$356,454,367",
+    "118,000"
+ ],
+ [
+    "Transformers: Dark of the Moon ",
+    "$352,358,779",
+    "46,000"
+ ],
+ [
+    "American Sniper ",
+    "$350,123,553",
+    "112,000"
+ ],
+ [
+    "Furious 7 ",
+    "$350,034,110",
+    "94,000"
+ ],
+ [
+    "The Lord of the Rings: The Two Towers ",
+    "$340,478,898",
+    "10,000"
+ ],
+ [
+    "The Hunger Games: Mockingjay - Part 1 ",
+    "$337,103,873",
+    "52,000"
+ ],
+ [
+    "Spider-Man 3 ",
+    "$336,530,303",
+    "0"
+ ],
+ [
+    "Spider-Man 3 ",
+    "$336,530,303",
+    "0"
+ ],
+ [
+    "Minions ",
+    "$336,029,560",
+    "70,000"
+ ],
+ [
+    "Alice in Wonderland ",
+    "$334,185,206",
+    "24,000"
+ ],
+ [
+    "Alice in Wonderland ",
+    "$334,185,206",
+    "24,000"
+ ],
+ [
+    "Guardians of the Galaxy ",
+    "$333,130,696",
+    "96,000"
+ ],
+ [
+    "Batman v Superman: Dawn of Justice ",
+    "$330,249,062",
+    "197,000"
+ ],
+ [
+    "Forrest Gump ",
+    "$329,691,196",
+    "59,000"
+ ],
+ [
+    "The Secret Life of Pets ",
+    "$323,505,540",
+    "36,000"
+ ],
+ [
+    "Shrek the Third ",
+    "$320,706,665",
+    "0"
+ ],
+ [
+    "Transformers ",
+    "$318,759,914",
+    "8,000"
+ ],
+ [
+    "Iron Man ",
+    "$318,298,180",
+    "10,000"
+ ],
+ [
+    "Harry Potter and the Sorcerer's Stone ",
+    "$317,557,891",
+    "16,000"
+ ]
+]
+
+}
