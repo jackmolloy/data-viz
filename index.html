@@ -9,10 +9,10 @@
   <meta name="author" content="SitePoint">
 
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
   <link href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" rel="stylesheet" >
   <link href="css/c3.css" rel="stylesheet">
-  <link href="css/syles.css" rel="stylesheet" >
+  <link href="css/syles.css" rel="stylesheet">
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -20,7 +20,56 @@
 </head>
 
 <body>
-    <div class="visible-lg-*">
+
+  <div class="header">
+    <h1>New Indicators of Major Motion Success</h1>
+  </div>
+
+  <div class="intro">
+    <p>In 2016, the global box office for the film and movie industry <a href='https://www.mpaa.org/wp-content/uploads/2017/03/MPAA-Theatrical-Market-Statistics-2016_Final.pdf'>reached $38.6 billion</a>, its highest mark in history. Since being introduced in the early 20th century, motion films have established themselves as an integral part of the worldwide entertainment industry. They aren’t slowing down, either. The global film industry is projected to eclipse $49 billion by 2020, according to a <a href='https://www.statista.com/statistics/259987/global-box-office-revenue/'>2016 Statista study</a></p>
+  </div>
+
+  <div class="sub1">
+    <h3>Where the Money Is</h3>
+  </div>
+
+  <div class="chart1">
+    <div id="chart"></div>
+  </div>
+
+  <div class="caption1">
+    <p>Though the gross revenue average has exceeded the film industry’s budget average for the past decade, some years have been tighter than others. In 2008, average profit hit its decade-low $2,768,624. The margin reached its 10-year peak in 2015 with an average profit of $28,231,189 per movie.</p>
+  </div>
+
+  <div class="sub2">
+    <h3>Facebook as an Indicator</h3>
+  </div>
+
+  <div class="sub3">
+    <h5>2008</h5>
+  </div>
+
+  <div class="chart3">
+    <div id="chart3"></div>
+  </div>
+
+  <div class="sub4">
+    <h5>2015</h5>
+  </div>
+
+  <div class="chart2">
+    <div id="chart2"></div>
+  </div>
+
+  <div class="caption2">
+    <p></p>
+  </div>
+
+  <div class="sub5">
+    <h3>Highest Grossing Movies</h3>
+  </div>
+
+  <div class="table large">
     <table id="example" class="display" cellspacing="0" width="50%">
           <thead>
               <tr>
@@ -41,36 +90,42 @@
               </tr>
           </tfoot>
       </table>
-    </div>
+  </div>
 
-      <div class="hidden-lg">
-      <table id="example2" class="display" cellspacing="0" width="50%">
-              <thead>
-                  <tr>
-                      <th>Movie Title</th>
-                      <th>Gross Revenue</th>
-                      <th># of Facebook Likes</th>
-                  </tr>
-              </thead>
-              <tfoot>
-                  <tr>
+  <div class="table mobile">
+    <table id="example2" class="display" cellspacing="0" width="50%">
+            <thead>
+                <tr>
                     <th>Movie Title</th>
                     <th>Gross Revenue</th>
                     <th># of Facebook Likes</th>
-                  </tr>
-              </tfoot>
-          </table>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                  <th>Movie Title</th>
+                  <th>Gross Revenue</th>
+                  <th># of Facebook Likes</th>
+                </tr>
+            </tfoot>
+        </table>
+  </div>
+
+  <div class="sources">
+
+  </div>
+
+
+
+      <div class="visible-lg-*">
+
       </div>
 
-      <div class="chart1">
-        <div id="chart"></div>
-      </div>
 
 
-      <div id="chart2"></div>
 
 
-      <div id="chart3"></div>
+
 
 
 

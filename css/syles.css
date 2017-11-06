@@ -1,5 +1,49 @@
 /*my styles*/
 
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,700');
+
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  text-align: left;
+}
+
+.mobile {
+  display: none !important;
+}
+
+.large {
+  display: block !important;
+}
+
+.intro {
+  background-color: red;
+}
+
+.sub1{
+  background-color: blue;
+}
+
+
 .chart1 {
-  padding: 0 10px;
+    background-color: green;
+}
+
+@media only screen and (max-width : 768px) {
+
+  .mobile {
+    display: block !important;
+  }
+
+  .large {
+    display: none !important;
+  }
+
 }
