@@ -1,18 +1,43 @@
 /*my styles*/
 
 @import url('https://fonts.googleapis.com/css?family=Oswald:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700i');
 
 
 h1 {
   font-family: "Oswald", sans-serif;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
+  line-height: 1.5em;
+  color: 	#343434;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+}
+
+.big-text1{
+  text-align: left;
+  font-size: 2.1em;
+}
+
+.header {
+  text-align: left;
+  line-height: 0.2em;
 }
 
 h3 {
   font-family: "Oswald", sans-serif;
   font-weight: 400;
   text-align: left;
+  color: 	#343434;
+}
+
+h5 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  text-align: left;
+  color: 	#343434;
 }
 
 .mobile {
@@ -24,16 +49,20 @@ h3 {
 }
 
 .intro {
-  background-color: red;
+padding-bottom: 20px;
 }
 
 .sub1{
-  background-color: blue;
+
 }
 
+.caption1{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
 
 .chart1 {
-    background-color: green;
+
 }
 
 @media only screen and (max-width : 768px) {
@@ -44,6 +73,27 @@ h3 {
 
   .large {
     display: none !important;
+  }
+
+  h3 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    text-align: left;
+    padding: none;
+  }
+
+  .sub1{
+    padding-bottom: 10px;
+    text-align: left;
+  }
+
+  .intro {
+  padding-bottom: 20px;
+  }
+
+  .caption1{
+    padding-top: 10px;
+    padding-bottom: 0px;
   }
 
 }
